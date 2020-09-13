@@ -5,6 +5,10 @@ It shows the simplicity in connecting the WordPress editor for shortcodes into c
 
 # Important 
 
+This example is for version 2.0 of eLearnCommerce.
+
+Video : https://www.youtube.com/watch?v=L10jHZ-4IJY 
+
 Copy elearncommerce-playground folder into your wp-content/plugins directory, make sure wpep ( elearncommerce ) is in wp-content/plugins too, if not, you'll have to adjust the mixin import from the SCSS.
 
 # Content for WordPress Page or Post : 
