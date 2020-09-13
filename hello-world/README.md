@@ -1,5 +1,7 @@
 # eLearnCommerce Hello World Component Example
 
+Copy elearncommerce-playground folder into your wp-content/plugins directory, make sure wpep ( elearncommerce ) is in wp-content/plugins too, if not, you'll have to adjust the mixin import from the SCSS.
+
 Content for WordPress Page or Post : 
 
 [ecp_hello_world][/ecp_hello_world]
