@@ -1,0 +1,21 @@
+@import "../../../../wpep/interface/mixins.scss";
+
+[data-ec-component="ecp-hello-world"] {
+  padding    : $layout_block_box_spacing_thick;
+  background : var( --ec-primary-color );
+  color      : var( --ec-color );
+  text-align : center;
+  width      : 100%;
+  font-size  : 25px;
+  margin     : 0 0 $layout_block_box_spacing_standard 0;
+
+  @include border-radius( var( --ec-layout-border-radius ) );
+
+  &[data-ec-component-template="secondary"] {
+    background : var( --ec-secondary-color );
+  }
+
+  &[data-ec-component-template="tertiary"] {
+    background : var( --ec-status-danger-background-color );
+  }
+}

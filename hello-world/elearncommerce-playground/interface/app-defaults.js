@@ -1,0 +1,1 @@
+eLearnCommerce.lang.ecp_hello_message = '';
