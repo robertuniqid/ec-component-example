@@ -1,4 +1,4 @@
-# eLearnCommerce Hello World Component Example
+# eLearnCommerce Component Examples
 
 Examples : 
 
